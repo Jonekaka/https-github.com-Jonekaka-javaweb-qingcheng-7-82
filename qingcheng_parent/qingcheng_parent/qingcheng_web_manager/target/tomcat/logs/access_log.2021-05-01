@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:15:06 +0800] "GET /login.html HTTP/1.1" 304 - http-bio-9101-exec-1 77
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:15:06 +0800] "GET /favicon.ico HTTP/1.1" 200 4286 http-bio-9101-exec-3 10
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:03 +0800] "GET /login.html HTTP/1.1" 304 - http-bio-9101-exec-4 5
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:03 +0800] "GET /favicon.ico HTTP/1.1" 200 4286 http-bio-9101-exec-5 3
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "POST /login HTTP/1.1" 200 8672 http-bio-9101-exec-6 1061
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /img/logo.png HTTP/1.1" 200 4847 http-bio-9101-exec-8 13
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /img/user2-160x160.jpg HTTP/1.1" 200 7070 http-bio-9101-exec-7 13
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /js/axios.js HTTP/1.1" 200 12948 http-bio-9101-exec-10 10
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /js/vue.js HTTP/1.1" 200 300248 http-bio-9101-exec-9 14
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /img/icon2.png HTTP/1.1" 200 16516 http-bio-9101-exec-4 6
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /js/elementui.js HTTP/1.1" 200 542433 http-bio-9101-exec-1 21
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /menu/findMenu.do HTTP/1.1" 200 6087 http-bio-9101-exec-1 187
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /login/name.do HTTP/1.1" 200 15 http-bio-9101-exec-4 188
+0:0:0:0:0:0:0:1 - - [01/May/2021:08:16:10 +0800] "GET /img/icon1.png HTTP/1.1" 200 1997 http-bio-9101-exec-1 5
